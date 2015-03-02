@@ -1,0 +1,87 @@
+\begin{thebibliography}{10}\itemsep=-1pt
+
+\bibitem{curtis2011devoflow}
+A.~R. Curtis, J.~C. Mogul, J.~Tourrilhes, P.~Yalagandula, P.~Sharma, and
+  S.~Banerjee.
+\newblock Devoflow: scaling flow management for high-performance networks.
+\newblock In {\em ACM SIGCOMM Computer Communication Review}, volume~41, pages
+  254--265. ACM, 2011.
+
+\bibitem{dharmapurikar2006longest}
+S.~Dharmapurikar, P.~Krishnamurthy, and D.~E. Taylor.
+\newblock Longest prefix matching using bloom filters.
+\newblock {\em Networking, IEEE/ACM Transactions on}, 14(2):397--409, 2006.
+
+\bibitem{guo2011resistive}
+Q.~Guo, X.~Guo, Y.~Bai, and E.~Ipek.
+\newblock A resistive tcam accelerator for data-intensive computing.
+\newblock In {\em Proceedings of the 44th Annual IEEE/ACM International
+  Symposium on Microarchitecture}, pages 339--350. ACM, 2011.
+
+\bibitem{mahoney2005parallel}
+P.~Mahoney, Y.~Savaria, G.~Bois, and P.~Plante.
+\newblock Parallel hashing memories: an alternative to content addressable
+  memories.
+\newblock In {\em IEEE-NEWCAS Conference, 2005. The 3rd International}, pages
+  223--226. IEEE, 2005.
+
+\bibitem{mckeown2008openflow}
+N.~McKeown, T.~Anderson, H.~Balakrishnan, G.~Parulkar, L.~Peterson, J.~Rexford,
+  S.~Shenker, and J.~Turner.
+\newblock Openflow: enabling innovation in campus networks.
+\newblock {\em ACM SIGCOMM Computer Communication Review}, 38(2):69--74, 2008.
+
+\bibitem{mendonca2013survey}
+M.~Mendonca, B.~A.~A. Nunes, X.-N. Nguyen, K.~Obraczka, and T.~Turletti.
+\newblock A survey of software-defined networking: past, present, and future of
+  programmable networks.
+\newblock {\em hal-00825087}, 2013.
+
+\bibitem{moshref2013vcrib}
+M.~Moshref, M.~Yu, A.~Sharma, and R.~Govindan.
+\newblock Vcrib: Virtualized rule management in the cloud.
+\newblock In {\em Proc. NSDI}, 2013.
+
+\bibitem{nakagawa2013domainflow}
+Y.~Nakagawa, K.~Hyoudou, C.~Lee, S.~Kobayashi, O.~Shiraki, and T.~Shimizu.
+\newblock Domainflow: Practical flow management method using multiple flow
+  tables in commodity switches.
+\newblock In {\em Proceedings of the ninth ACM conference on Emerging
+  networking experiments and technologies}, pages 399--404. ACM, 2013.
+
+\bibitem{nguyen2014optimizing}
+X.~N. Nguyen, D.~Saucez, C.~Barakat, T.~Thierry, et~al.
+\newblock Optimizing rules placement in openflow networks: trading routing for
+  better efficiency.
+\newblock In {\em ACM SIGCOMM Workshop on Hot Topics in Software Defined
+  Networking (HotSDN 2014)}, 2014.
+
+\bibitem{stephens2012past}
+B.~Stephens, A.~Cox, W.~Felter, C.~Dixon, and J.~Carter.
+\newblock Past: Scalable ethernet for data centers.
+\newblock In {\em Proceedings of the 8th international conference on Emerging
+  networking experiments and technologies}, pages 49--60. ACM, 2012.
+
+\bibitem{taylor2005survey}
+D.~E. Taylor.
+\newblock Survey and taxonomy of packet classification techniques.
+\newblock {\em ACM Computing Surveys (CSUR)}, 37(3):238--275, 2005.
+
+\bibitem{ullahz}
+Z.~Ullah, M.~K. Jaiswal, and R.~C. Cheung.
+\newblock Z-tcam: An sram-based architecture for tcam.
+\newblock {\em Very Large Scale Integration (VLSI) Systems, IEEE Transactions
+  on}.
+
+\bibitem{yu2010scalable}
+M.~Yu, J.~Rexford, M.~J. Freedman, and J.~Wang.
+\newblock Scalable flow-based networking with difane.
+\newblock {\em ACM SIGCOMM Computer Communication Review}, 40(4):351--362,
+  2010.
+
+\bibitem{zarek2012openflow}
+A.~Zarek, Y.~Ganjali, and D.~Lie.
+\newblock Openflow timeouts demystified.
+\newblock {\em Univ. of Toronto, Toronto, Ontario, Canada}, 2012.
+
+\end{thebibliography}
